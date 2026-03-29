@@ -4,7 +4,7 @@ An interactive Excel dashboard analyzing pricing, discounts, and customer review
 
 Built as part of the LuxDev Data Science Cohort 7 program.
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Excel_week1_dashboard.png)
 
 ## Project Overview
 
